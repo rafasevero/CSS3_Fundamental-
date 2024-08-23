@@ -1,0 +1,30 @@
+/*comments*/
+h1{
+    color:blueviolet;
+    font-size: 60px;
+    text-shadow: 56px;
+    display: block;
+}
+.paragrafos{    
+    color: green;
+    background-color: black;
+
+}
+#segundo_titulo{
+    color: aquamarine;
+}
+.box .paragrafo_box{
+    color: rgb(196, 32, 182);
+}
+.box .paragrafo_teste{
+    color: blue;
+}
+#background{
+    background-image: url(../css/1_HTML5/img/ricefield.jpg);
+    background-size: cover;    
+    height: 200px;
+}
+/*cores hexadecimais consiste em 6 algarismos
+(0,1,2,3,4,5,6,7,8,9),(A,B,C,D,E,F)
+  */
+/* cores rgb  consiste em numeros de 0 a 255*/

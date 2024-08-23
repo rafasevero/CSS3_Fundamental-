@@ -1,0 +1,21 @@
+#primeiro_titulo{
+    position: absolute;
+    top: 0;
+    left: 300px;
+}
+#pai{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 30px;
+}
+#fixo{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: green;
+    color: blue;
+}
+/* fixed = fixa o elemento na tela */
+/* relative = é a posição normal  */
+/* absolute = fica livre na tela, porém dentro do body  */

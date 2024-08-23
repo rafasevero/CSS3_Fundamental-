@@ -1,0 +1,19 @@
+h1{
+    display: block;
+    font-size: 2cm;
+    margin-block-start: 0.67cm;
+    margin-block-end: 0.67cm;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    border: 10px;
+    border-color: blue;
+    padding: 5px;
+    border-radius: 15px;
+}
+#primeiro_titulo{
+    border: 2px solid blue;
+}
+/* border = separar elementos*/
+/* padding =  espaçamento para um elemnto e sua borda*/
+/* border radius = arredondamento da borda */

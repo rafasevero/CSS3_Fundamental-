@@ -1,0 +1,14 @@
+#background, #primeiro_titulo{
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    margin-right: 10px;
+}
+span{
+    display: block;
+}
+h3{
+    display: none;
+}
+/* inline-block = em linha */
+/* none = desaparece da tela */
