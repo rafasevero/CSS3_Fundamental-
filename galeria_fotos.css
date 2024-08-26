@@ -5,7 +5,7 @@
     font-family: Helvetica;
 }
 body{
-    background-color: #5f779e;
+    background-color: #05133a;
 }
 
 /*cabeçalho*/
@@ -48,14 +48,13 @@ h1{
     height: 300px;
     background-size: cover;
     border-radius: 8px;
-    background-color: #ddd; /* Cor de fundo padrão */
     transition: filter 0.3s; /* Transição suave para o efeito de filtro */
 }
 .card:hover .card-image {
     filter: brightness(0.5); /* Escurece a imagem */
 }
 .card-description {
-    background: #fff;
+    background: #132769;
     padding: 10px;
     text-align: center;
 }
@@ -162,7 +161,17 @@ h1{
     background-image: url(../CSS3_Fundamental-/img/romero.jpg);
     background-position: center;
 }
-
+.btn{
+    display: block;
+    background-color: #000814;
+    color: #fff;
+    margin-top: 20px;
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid transparent;
+    font-weight: bold;
+    transition: .5s;
+}
 
 
 
